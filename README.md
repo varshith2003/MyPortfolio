@@ -1,10 +1,10 @@
-# ✨ReactDevPortfolio✨
+# ✨My Portfolio✨
 
 # 📋 Project Overview
 
 This portfolio website is built using the MERN stack (MongoDB, Express.js, React.js, Node.js) and showcases a multi-page layout. It is designed to be fully responsive, ensuring optimal viewing across various devices.
 
-Live Demo : [Portfolio](https://varshith-portfolio.web.app/)
+Live Demo : [Portfolio](https://portfolio-b8530.web.app/)
 
 
 # ✨ Features
