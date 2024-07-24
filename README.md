@@ -2,7 +2,7 @@
 
 # 📋 Project Overview
 
-This portfolio website is built using the MERN stack (MongoDB, Express.js, React.js, Node.js) and showcases a multi-page layout. It is designed to be fully responsive, ensuring optimal viewing across various devices.
+This portfolio website is built using the MERN stack (React.js, Node.js) and showcases a multi-page layout. It is designed to be fully responsive, ensuring optimal viewing across various devices.
 
 Live Demo : [Portfolio](https://portfolio-b8530.web.app/)
 
@@ -11,6 +11,7 @@ Live Demo : [Portfolio](https://portfolio-b8530.web.app/)
 
 - **Styled with React and Custom CSS**: Easy to customize colors and styles using React and CSS.
 - **Fully Responsive**: Designed to be responsive and user-friendly on all devices.
+- **Themes**: Created inbuilt themes that you can change according to your intrest.
 
 # 📦 Technologies
 
